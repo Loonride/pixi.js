@@ -1,6 +1,6 @@
 {
   "name": "@loonride/pixi.js-bitmap-flicker",
-  "version": "5.2.0",
+  "version": "5.2.2",
   "description": "PixiJS without the CanvasRenderer fallback, modern browsers only",
   "author": "Mat Groves",
   "contributors": [
@@ -56,7 +56,7 @@
     "@pixi/math": "^5.2.0",
     "@pixi/mesh": "^5.2.0",
     "@pixi/mesh-extras": "^5.2.0",
-    "@pixi/mixin-cache-as-bitmap": "^5.2.0",
+    "@loonride/mixin-cache-as-bitmap": "^5.2.0",
     "@pixi/mixin-get-child-by-name": "^5.2.0",
     "@pixi/mixin-get-global-position": "^5.2.0",
     "@pixi/particles": "^5.2.0",

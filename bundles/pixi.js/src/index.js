@@ -19,7 +19,7 @@ import { ColorMatrixFilter } from '@pixi/filter-color-matrix';
 import { DisplacementFilter } from '@pixi/filter-displacement';
 import { FXAAFilter } from '@pixi/filter-fxaa';
 import { NoiseFilter } from '@pixi/filter-noise';
-import '@pixi/mixin-cache-as-bitmap';
+import '@loonride/mixin-cache-as-bitmap';
 import '@pixi/mixin-get-child-by-name';
 import '@pixi/mixin-get-global-position';
 

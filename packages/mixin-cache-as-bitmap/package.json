@@ -1,5 +1,5 @@
 {
-  "name": "@pixi/mixin-cache-as-bitmap",
+  "name": "@loonride/mixin-cache-as-bitmap",
   "version": "5.2.0",
   "main": "lib/mixin-cache-as-bitmap.js",
   "module": "lib/mixin-cache-as-bitmap.es.js",
