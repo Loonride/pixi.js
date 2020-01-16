@@ -1,5 +1,5 @@
 {
-  "name": "pixi.js",
+  "name": "@loonride/pixi.js-bitmap-flicker",
   "version": "5.2.0",
   "description": "PixiJS without the CanvasRenderer fallback, modern browsers only",
   "author": "Mat Groves",
